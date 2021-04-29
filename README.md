@@ -5,7 +5,7 @@
 
   - 개발환경 : IntelliJ
   - 프레임워크 : Spring 4.3.7
-  - 개발 언어 : Java
+  - 개발 언어 : Java 8
   - 개발 기술 : Aws ec2, Docker
   
 ## 설명  
