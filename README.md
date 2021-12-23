@@ -9,6 +9,8 @@
   - 개발 기술 : Aws ec2, Docker
   
 ## 설명  
+![image](https://user-images.githubusercontent.com/64997245/147189066-ef98ecc0-5c94-4272-8d86-62bc2b8561c8.png)
+
 한국폴리텍대학 강서캠퍼스 식단을 알려주는 카카오톡 채널 챗봇 API
 
 jsoup 라이브러리를 활용해 크롤링한 데이터를 제공하는 API입니다.<br/>
